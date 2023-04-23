@@ -283,7 +283,7 @@ python3 unittest -m tests/test_console.py
 
 # 0x00. AirBnB clone - The console Docs
 
-* By - Dennis Nderitu and Lucy Njeri
+* By - Dike Chika Esther
 
 * Weight : 5
 
@@ -1137,6 +1137,4 @@ Otherwise, you will have to re-write the console by replacing `precmd` by `defau
 
 ### Authors :black_nib
 
-* **Flesier Akinyi** <[Flesier](https://github.com/Flesier)>
-* **Lucy Njeri Maina** <[NjeriMaina4172](https://github.com/NjeriMaina4172)>
-* **Dennis Nderitu Kinyanjui** <[dennisnderitu254](https://github.com/dennisnderitu254)>
+* **Dike Chika Esther** <[Chikadike](https://github.com/Chikadike)>
